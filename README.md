@@ -9,7 +9,7 @@
 
 #### Elaborative problem statement: The modern world has come to an era of technological revolutions in every field. But regardless of this, farmers today face many challenges in meeting the growing demand for high-quality and high-yielding crops that are able to upkeep with the changing customer preferences. They must keep up with the new advances in technology, market trends, as well as shifting customer preferences related to their diets. In addition to this, they have to address issues like climate change, water scarcity, & soil degradation. Since all of these needs cannot be met by traditional agricultural practices, it is critical to modernize existing processes & use the data acquired over time to their benefit.
 
-#### Once the perfect harmony is achieved and variables can be predicted better by the use of our AI model, it shall become easier for any farmer to implement better practices and methods that meet the requirements of contemporary farming and agricultural practices. This model can be succesfully used to derive and predict the yield by taking in available parameters such as rainfall, average temperature and amount of pesticides used during the crop period. We provide the functionality to calculate and predict yield with a desirable accuracy
+#### Once the perfect harmony is achieved and variables can be predicted better by the use of our AI model, it shall become easier for any farmer to implement better practices and methods that meet the requirements of contemporary farming and agricultural practices. This model can be successfully used to derive and predict the yield by taking in available parameters such as rainfall, average temperature and amount of pesticides used during the crop period. We provide the functionality to calculate and predict yield with a desirable accuracy
 
 #### Our project aims at being an aid to farmers so that they can conquer the often humongous targets of contemporary agriculture. It helps the farmers in identifying the best farming practices by taking complete advantage of the conditions.
 
@@ -24,7 +24,7 @@
 ***
 1. Our initial dataset, formatted in JSON, proved to be cumbersome due to its heavy size and difficulties in downloading. We really put our efforts into working with the referenced dataset but since there is a time constraint to the competition we had to proceed with a dataset from Kaggle of our chosing.
 * Not only we overcame it by using a more efficient CSV formatted Kaggle dataset but the comparision and training of the model became a lot easier once we shifted which streamlined the process.
-2. When building and training our machine learning model, we encountered compatibility issues with the TensorFlow on MacOS, hindering its installation process.
+2. When building and training our machine learning model, we encountered compatibility issues with the TensorFlow, hindering its installation process.
 * As a solution, we leveraged the Google Colab notebook to make things easier.
 3. The polynomial regression model, with a degree of 3, initially encountered several type and value errors that required extensive time and effort to resolve.
 * To solve these errors we had to extensively trace back to a point of correctness and alter the further progressions to change the outputs and produce desirable outcomes.
